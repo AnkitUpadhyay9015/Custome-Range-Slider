@@ -5,8 +5,8 @@ Simple Custom Range Slider written in HTML, CSS, and JavaScript .
 Range Sliders are used on web pages to allow the user specify a numeric value which must be no less than a given value, and no more than another given value. That is, it allows to choose value from a range which is represented as a slider.
 
 # Used Technologies
-HTML5
-CSS3
+HTML5 <br />
+CSS3 <br />
 JavaScript
 
 # Steps to Use:
