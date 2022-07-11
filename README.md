@@ -15,3 +15,4 @@ Run the index.html file
 Set the Range According to your wish
 
 # ScreenShots
+![](Custom-Range-Slider.png)
